@@ -3,3 +3,7 @@ api-alurabooks/node_modules
 api-alurabook/.idea
 curso-react-alurabooks/node_modules
 curso-react-alurabooks/.idea
+curso-react-alurabooks/server.crt
+curso-react-alurabooks/server.key
+curso-react-alurabooks/package.json
+curso-react-alurabooks/package-lock.json
